@@ -19,3 +19,4 @@ if discount_percent >=20:
 
 else: 
    print(f"No discount applied:{final_price:.2f}")   
+
